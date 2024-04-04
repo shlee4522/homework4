@@ -9,8 +9,7 @@ typedef struct {
     int studentId;
     char grade;
 } student2;
-int main() 
-{
+int main() {
     printf("[----- [LeeSeungHun] [2023041045] -----]\n");
 
     struct student1 st1 = { 'A', 100, 'A' };

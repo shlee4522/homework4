@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-void main()
-{
+void main(){
 printf("[----- [LeeSeungHun] [2023041045] -----]\n");
 
 int **x; //이중포인터 변수 x 선언

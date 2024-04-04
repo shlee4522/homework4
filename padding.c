@@ -4,8 +4,7 @@ struct student {
     int studentId; /* 4 bytes */
     short grade; /* 2 bytes */
 };
-int main()
-{
+int main(){
     printf("[----- [LeeSeungHun] [2023041045] -----]\n");
 
     struct student pst;
